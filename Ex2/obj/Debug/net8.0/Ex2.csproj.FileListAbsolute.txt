@@ -1,0 +1,14 @@
+C:\Exemples\Ex1\Ex2\bin\Debug\net8.0\Ex2.exe
+C:\Exemples\Ex1\Ex2\bin\Debug\net8.0\Ex2.deps.json
+C:\Exemples\Ex1\Ex2\bin\Debug\net8.0\Ex2.runtimeconfig.json
+C:\Exemples\Ex1\Ex2\bin\Debug\net8.0\Ex2.dll
+C:\Exemples\Ex1\Ex2\bin\Debug\net8.0\Ex2.pdb
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfoInputs.cache
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfo.cs
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\Ex2.dll
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\refint\Ex2.dll
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\Ex2.pdb
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\Ex2.genruntimeconfig.cache
+C:\Exemples\Ex1\Ex2\obj\Debug\net8.0\ref\Ex2.dll
